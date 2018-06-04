@@ -1,7 +1,6 @@
 # Roadmap and Compass in 2018
 
-
-各月のアクションは issue にまとめている。
+各月のアクションは issue にまとめている。
 
 - [2018年6月のアクション](https://github.com/SotaSuzuki/roadmap-compass-2018/issues)
 
