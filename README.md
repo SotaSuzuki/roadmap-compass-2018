@@ -2,7 +2,8 @@
 
 各月のアクションは issue にまとめている。
 
-- [2018年6月のアクション](https://github.com/SotaSuzuki/roadmap-compass-2018/issues/1)
+- [2018年6月のアクション](https://github.com/SotaSuzuki/roadmap-compass-2018/issues/1
+- [2018年7月のアクション](https://github.com/SotaSuzuki/roadmap-compass-2018/issues/2)
 
 ## TOC
 
